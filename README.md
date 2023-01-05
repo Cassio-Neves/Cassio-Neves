@@ -3,6 +3,7 @@
 - ✈️ I'm a Brazilian Developer
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning SQL and Django
+- 👾 My first programming experience was a game developed in Flash
 
 
 
