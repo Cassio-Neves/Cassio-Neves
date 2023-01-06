@@ -1,6 +1,6 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20"> Hi there, i'm Cassio!
 ### ⚡ A little bit about myself:
-- ✈️ I'm a Brazilian Developer
+- 🇧🇷 I'm a Brazilian Developer
 - 🔭 I’m currently working on a Python Project
 - 🌱 I’m currently learning SQL and Django
 - 👾 My first programming experience was a game developed in ActionScript
