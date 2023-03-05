@@ -21,7 +21,12 @@
 <code> <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></code>
 <code> <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
 
-          
+<br></br>
+
+<div align="center"><img src="https://github.com/Cassio-Neves/Cassio-Neves/blob/main/image/silicon-valley.gif"></div>
+
+
+
           
   
 
