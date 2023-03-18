@@ -1,6 +1,6 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20"> Hi there, i'm Cassio!
 
-<img width= "45%"  align="right" src="https://github.com/Cassio-Neves/Cassio-Neves/blob/main/image/silicon-valley.gif">
+<img width= "50%"  align="right" src="https://github.com/Cassio-Neves/Cassio-Neves/blob/main/image/silicon-valley.gif">
 
 ### ⚡ A little bit about myself:
 - 🇧🇷 I'm a Brazilian Developer
