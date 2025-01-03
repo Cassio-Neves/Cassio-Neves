@@ -4,8 +4,6 @@
 
 ### ⚡ A little bit about myself:
 - 🇧🇷 I'm a Brazilian Developer
-- 🔭 I’m currently working on a Website Project
-- 🌱 I’m currently learning JavaScript
 - 👾 My first programming experience was a game developed in ActionScript
 
   
